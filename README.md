@@ -5,3 +5,5 @@
 - Terminar el programa del SENA
 Metas profesionales
 - Conseguir mi primer empleo como analista y desarrollador
+## Metas a mediano plazo
+- Subir trabajos de calidad a mi Github
