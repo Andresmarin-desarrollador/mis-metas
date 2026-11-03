@@ -58,6 +58,7 @@ flowchart LR
 ## 🌱 Metas personales
 
 - [ ] Aprender a crear **páginas interactivas de gran calibre**
+- [ ] Convertirme en un excelente analista de software  
 
 ---
 
