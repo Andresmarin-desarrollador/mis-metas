@@ -51,7 +51,7 @@ flowchart LR
     C --> D[🌐 Páginas de mis proyectos]
     D --> E[🎞️ Aprender animación 3D]
     E --> F[📖 Mi libro]
-    E --> F[🎮 Remasterizar juegos de PS1]
+    E --> H[🎮 Remasterizar juegos de PS1]
 ```
 
 ---
