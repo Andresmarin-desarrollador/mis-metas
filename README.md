@@ -48,9 +48,10 @@ Soy aprendiz de programación en el **SENA** y este repositorio recoge mis metas
 flowchart LR
     A[🎓 Terminar el SENA] --> B[💼 Primer empleo]
     B --> C[📂 Portafolio en GitHub]
-    C --> D[🌐 Páginas de mis negocios]
-    D --> E[📖 Mi libro]
-    D --> F[🎮 Remasterizar juegos de PS1]
+    C --> D[🌐 Páginas de mis proyectos]
+    D --> E[🎞️ Aprender animación 3D]
+    E --> F[📖 Mi libro]
+    E --> F[🎮 Remasterizar juegos de PS1]
 ```
 
 ---
