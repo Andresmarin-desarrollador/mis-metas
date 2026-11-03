@@ -76,6 +76,7 @@ flowchart LR
 ## 📈 Metas a mediano plazo
 
 - [ ] Subir **trabajos de calidad** a mi GitHub
+- [ ] Crear APIS de utilidad comercial 
 
 ---
 
